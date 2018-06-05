@@ -1,2 +1,1 @@
-# alignment_calculator
-Laser induced alignment calculator
+# This repository has been moved to https://andersaspegren.dk/code
